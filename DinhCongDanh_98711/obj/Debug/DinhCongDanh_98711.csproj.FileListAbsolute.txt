@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.Form1.resources
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.Properties.Resources.resources
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DinhCongDanh_98711\bin\Debug\DinhCongDanh_98711.exe.config
+C:\Users\admin\source\repos\DinhCongDanh_98711\bin\Debug\DinhCongDanh_98711.exe
+C:\Users\admin\source\repos\DinhCongDanh_98711\bin\Debug\DinhCongDanh_98711.pdb
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.exe
+C:\Users\admin\source\repos\DinhCongDanh_98711\obj\Debug\DinhCongDanh_98711.pdb
